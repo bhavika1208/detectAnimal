@@ -3,7 +3,6 @@ flask
 gunicorn
 tensorflow
 PILLOW
-base64 == 1.0.0
 os
 uuid
 urllib
