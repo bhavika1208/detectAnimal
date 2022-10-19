@@ -3,3 +3,7 @@ flask==2.2.2
 gunicorn==20.1.0
 tensorflow==2.10
 PILLOW==9.2.0
+os
+uuid
+urllib
+base64
