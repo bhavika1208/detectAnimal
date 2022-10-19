@@ -1,5 +1,5 @@
 # To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
-flask
-gunicorn
-tensorflow
-PILLOW
+flask==2.2.2
+gunicorn==20.1.0
+tensorflow==2.10
+PILLOW==9.2.0
