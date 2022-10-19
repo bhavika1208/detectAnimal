@@ -3,6 +3,3 @@ flask
 gunicorn
 tensorflow
 PILLOW
-os
-uuid
-urllib
